@@ -302,5 +302,5 @@ What we learned:
     Building a test suite to check our own code
 
 Authors 
-Karlie Moyo <karlieemoyo@gmail.com>
-Tekenatei Franklyn <frankiperezi99@gmail.com>
+Oparaure Delight <oparauredu@gmail.com>
+Timi Ogionwo <timinipri.ogionwo@gmail.com>
