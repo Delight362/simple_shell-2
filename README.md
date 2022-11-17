@@ -290,9 +290,7 @@ $ setenv NAME Poppy
 $ unsetenv NAME
 $ echo $NAME
 
-$
-
-What we learned:
+$ What we learned:
 
     How a shell works and finds commands
     Creating, forking and working with processes

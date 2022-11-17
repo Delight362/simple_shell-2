@@ -42,11 +42,8 @@ Establish a string formatted
 .br
 .IP *PWD
 This variable shall represent an absolute pathname of the current working directory. Assignments to this variable may be ignored.
- 
-
 .SH ASYNCHRONOUS EVENTS
- The sh utility shall take the standard action for all signals. If the shell is interactive, SIGINT signals received during command line editing shall be handled as described in the EXTENDED DESCRIPTION, and SIGINT signals received at other times shall be caught but no action performed.
-
+The sh utility shall take the standard action for all signals. If the shell is interactive, SIGINT signals received during command line editing shall be handled as described in the EXTENDED DESCRIPTION, and SIGINT signals received at other times shall be caught but no action performed.
 .SH STDOUT
 See \fBSTDERR
 
@@ -69,16 +66,13 @@ k_shell can be executed int two modes:
 .B 1. Non interactice mode example:
 $ echo "/bin/ls" | ./hsh
 hsh main.c shell.c test_ls_2
-$
 $ cat test_ls_2
 /bin/ls
 /bin/ls
-$
 $ cat test_ls_2 | ./hsh
 hsh main.c shell.c test_ls_2
 hsh main.c shell.c test_ls_2
 $
-
 2. Interactice mode example:
 $ ./hsh
 ($) /bin/ls
@@ -86,7 +80,6 @@ hsh main.c shell.c
 ($)
 ($) exit
 $
-
 .SH FUTURE DIRECTIONS
 None
 
@@ -99,7 +92,7 @@ strtok(3), wait(2), waitpid(2), wait3(2), wait4(2), write(2).
 See AUTHORS
 
 .SH AUTHORS
-.B Timi Ogionwo
+.B Tekenatei Franklyn
 .br
-.B Oparaure Delight
+.B Karlie Moyo
 .br
