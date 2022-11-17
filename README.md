@@ -296,7 +296,6 @@ $ What we learned:
     Handling dynamic memory allocation in a large program
     Pair programming and team work
     Building a test suite to check our own code
-
-Authors 
+Authors
 Oparaure Delight <oparauredu@gmail.com>
 Timi Ogionwo <timinipri.ogionwo@gmail.com>
