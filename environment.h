@@ -1,4 +1,3 @@
-
 #include "commands.h"
 #include "general.h"
 #include "text.h"
